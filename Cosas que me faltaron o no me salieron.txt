@@ -1,2 +1,5 @@
-Me faltaron cosas por hacer al final de la Regresión Logística.
-Videso del 98 al 103.
+1 - Me faltaron cosas por hacer al final de la Regresión Logística.
+    Videso del 98 al 103.
+    
+    
+2 - Tuve problemas con la librería plt.cm.spectral porque le cambiaron el nombre y no pude completar el video 120.
